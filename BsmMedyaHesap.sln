@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BsmMedyaHesap", "BsmMedyaHesap\BsmMedyaHesap.csproj", "{B8E3201F-1A6F-467B-A87B-36F71CDE110D}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "BsmMedyaHesaplama", "BsmMedyaHesaplama\BsmMedyaHesaplama.vdproj", "{42056053-9700-4032-A7AD-B1802B3043F5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B8E3201F-1A6F-467B-A87B-36F71CDE110D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8E3201F-1A6F-467B-A87B-36F71CDE110D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8E3201F-1A6F-467B-A87B-36F71CDE110D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8E3201F-1A6F-467B-A87B-36F71CDE110D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{42056053-9700-4032-A7AD-B1802B3043F5}.Debug|Any CPU.ActiveCfg = Debug
+		{42056053-9700-4032-A7AD-B1802B3043F5}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {827ADB33-4EC1-4BC0-B6F4-D8BBABAE8DAE}
+	EndGlobalSection
+EndGlobal

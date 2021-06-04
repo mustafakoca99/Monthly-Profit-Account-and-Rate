@@ -1,0 +1,10 @@
+C:\Users\Mustafa Koca\Desktop\BsmMedyaHesap\BsmMedyaHesap\bin\Debug\BsmMedyaHesap.exe.config
+C:\Users\Mustafa Koca\Desktop\BsmMedyaHesap\BsmMedyaHesap\bin\Debug\BsmMedyaHesap.exe
+C:\Users\Mustafa Koca\Desktop\BsmMedyaHesap\BsmMedyaHesap\bin\Debug\BsmMedyaHesap.pdb
+C:\Users\Mustafa Koca\Desktop\BsmMedyaHesap\BsmMedyaHesap\obj\Debug\BsmMedyaHesap.csprojAssemblyReference.cache
+C:\Users\Mustafa Koca\Desktop\BsmMedyaHesap\BsmMedyaHesap\obj\Debug\BsmMedyaHesap.Form1.resources
+C:\Users\Mustafa Koca\Desktop\BsmMedyaHesap\BsmMedyaHesap\obj\Debug\BsmMedyaHesap.Properties.Resources.resources
+C:\Users\Mustafa Koca\Desktop\BsmMedyaHesap\BsmMedyaHesap\obj\Debug\BsmMedyaHesap.csproj.GenerateResource.cache
+C:\Users\Mustafa Koca\Desktop\BsmMedyaHesap\BsmMedyaHesap\obj\Debug\BsmMedyaHesap.csproj.CoreCompileInputs.cache
+C:\Users\Mustafa Koca\Desktop\BsmMedyaHesap\BsmMedyaHesap\obj\Debug\BsmMedyaHesap.exe
+C:\Users\Mustafa Koca\Desktop\BsmMedyaHesap\BsmMedyaHesap\obj\Debug\BsmMedyaHesap.pdb
